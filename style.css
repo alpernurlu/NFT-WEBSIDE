@@ -158,12 +158,6 @@ nav button {
   width: 260px;
   padding: 20px;
   color: #292b2d;
-  transition: transform 1s;
-}
-.card:hover{
-    transform: translate(20px, -20px);
-    transition: all 1s;
-    box-shadow: 2px 2px 30px red;
 }
 .card h3 {
 }
